@@ -16,3 +16,6 @@ eggs
 bin
 developer-eggs
 downloads
+
+.installed.cfg
+develop-eggs
